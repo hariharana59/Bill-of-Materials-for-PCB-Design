@@ -58,11 +58,13 @@ During the product life, components may fail needing repair or upgrade. Here the
 •	Diagnostics — Expected voltages, signal values </br>
 
 # Circuit Diagram
+![touch sensor](https://github.com/anishkumar-Embedded/Bill-of-Materials-for-PCB-Design/assets/144980130/2aaae018-def6-4e87-b7a2-5e0a602d05e0)
 
 
 
 
 # Output
+![bom](https://github.com/anishkumar-Embedded/Bill-of-Materials-for-PCB-Design/assets/144980130/d1259850-5e4b-4450-a199-d5c021a54b39)
 
 
 
